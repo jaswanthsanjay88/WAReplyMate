@@ -1,5 +1,13 @@
 # WhatsApp Automated Auto-Reply Bot
 
+## ⚠️ Important Notice
+
+**Using unofficial WhatsApp automation tools (including this bot and `whatsapp_bridge`) may violate WhatsApp's Terms of Service. Your WhatsApp account could be temporarily or permanently banned as a result.**
+
+- Use at your own risk.
+- Prefer using a secondary or test account for automation.
+- The author is not responsible for any bans or account restrictions.
+
 This project is a Python-based WhatsApp auto-reply bot that uses the `whatsapp_bridge` library to automate replies to incoming WhatsApp messages. It supports per-chat configuration, owner commands, rate limiting, and graceful shutdown.
 
 ## Features
