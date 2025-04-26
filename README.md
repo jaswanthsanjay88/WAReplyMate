@@ -78,49 +78,6 @@ Send these commands **from your owner account** to the bot in any chat:
 
 You can use Git to track changes to your code and configuration.
 
-### Step-by-step: Add this project to GitHub
-
-1. **Initialize a Git repository (if not already done):**
-   ```sh
-   git init
-   ```
-
-2. **Add your files:**
-   ```sh
-   git add code.py README.md config.json
-   ```
-
-3. **Commit your changes:**
-   ```sh
-   git commit -m "Initial commit: WhatsApp auto-reply bot"
-   ```
-
-4. **Add the remote repository:**
-   ```sh
-   git remote add origin https://github.com/jaswanthsanjay88/What-a-bot-.git
-   ```
-
-5. **Rename your branch to main (if needed):**
-   ```sh
-   git branch -M main
-   ```
-
-6. **Push your code to GitHub:**
-   ```sh
-   git push -u origin main
-   ```
-
-> **Tip:** Add `config.json` to `.gitignore` if it contains sensitive information.
-
-### Example `.gitignore`
-
-```
-config.json
-__pycache__/
-*.pyc
-.env
-```
-
 ## Troubleshooting
 
 - **500 Server Error:** Make sure the WhatsApp Bridge backend is running and accessible.
