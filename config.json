@@ -1,0 +1,9 @@
+{
+  "bot_owner_jid": "91xxxxxxxxx0@s.whatsapp.net",
+  "defaults": {
+    "enabled": true,
+    "delay_seconds": 60,
+    "message": "Sorry, Sanju currently unavailable but will get back to you as soon as possible.I am his assistant and I will convey your message to him as soon as possible. Thank you.",
+    "rate_limit_minutes": 2
+  }
+}
